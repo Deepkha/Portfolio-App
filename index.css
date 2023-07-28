@@ -119,6 +119,10 @@ img{
 .home .content{
     flex:1 1 40rem;
 }
+.home .content .hi{
+    font-size:3rem;
+}
+
 .home .content h1{
     font-size:3rem;
     color:var(--main-color);
